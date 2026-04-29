@@ -5,6 +5,8 @@ import (
 	"io"
 	"net/http"
 	"time"
+
+	"github.com/WesleyTran0/newsfeed/pkg/models"
 )
 
 type Scraper struct {
@@ -42,7 +44,7 @@ func (s *Scraper) Fetch(url string) (string, error) {
 	defer resp.Body.Close()
 
 	if resp.StatusCode != 200 {
-		errMsg := fmt.Sprint("Expected StatusCode 200, Found: %d", resp.StatusCode)
+		errMsg := fmt.Sprint("Expected StatusCode 200, Found: %i", resp.StatusCode)
 		return "", &FetchError{url, err, &errMsg}
 	}
 
@@ -53,4 +55,15 @@ func (s *Scraper) Fetch(url string) (string, error) {
 	}
 
 	return string(body), nil
+}
+
+// ScraperSource returns the list of articles from the url. The url is parsed using the parser function.
+// This errors if at any point, the parser fails
+func (s *Scraper) ScraperSource(url string, parser func(string) []models.Article) ([]models.Article, error) {
+	html, err := s.Fetch(url)
+	if err != nil {
+		return nil, err
+	}
+
+	return parser(html), nil
 }
