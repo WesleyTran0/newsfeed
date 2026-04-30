@@ -1,39 +1,42 @@
 package main
 
 import (
-	"fmt"
+	"flag"
+	"log"
 	"slices"
 	"time"
 
+	"github.com/WesleyTran0/newsfeed/internal/output"
 	"github.com/WesleyTran0/newsfeed/internal/scraper"
+	"github.com/WesleyTran0/newsfeed/pkg/models"
 )
 
+var newsSites = map[string]func(string) []models.Article{
+	"https://arstechnica.com/security/":            scraper.ParseArsTechnicaSec,
+	"https://this.weekinsecurity.com/articles/":    scraper.ParseThisWeekInSecurity,
+	"https://this.weekinsecurity.com/past-issues/": scraper.ParseThisWeekInSecurity,
+	"https://tldrsec.com/t/Summary":                scraper.ParseTLDRSec,
+	"https://tldrsec.com/t/Blog":                   scraper.ParseTLDRSec,
+}
+
+var technologySites = map[string]func(string) []models.Article{
+	"https://tldrsec.com/t/Newsletter": scraper.ParseTLDRSec,
+}
+
 func main() {
+	path := flag.String("output", "./output.json", "The output file path to where this scraper will write to")
+	flag.Parse()
+
 	s := scraper.NewScraper(10 * time.Second)
 
-	// articles, err := s.ScraperSource("https://arstechnica.com/security/", scraper.ParseArsTechnicaSec)
-	// articles, err := s.ScraperSource("https://this.weekinsecurity.com/articles/", scraper.ParseThisWeekInSecurity)
-	// if err != nil {
-	// 	panic(err)
-	// }
-	// issues, err := s.ScraperSource("https://this.weekinsecurity.com/past-issues/", scraper.ParseThisWeekInSecurity)
-	// if err != nil {
-	// 	panic(err)
-	// }
-	newsletters, err := s.ScraperSource("https://tldrsec.com/t/Newsletter", scraper.ParseTLDRSec)
-	if err != nil {
-		panic(err)
-	}
-	summaries, err := s.ScraperSource("https://tldrsec.com/t/Summary", scraper.ParseTLDRSec)
-	if err != nil {
-		panic(err)
-	}
-	blogs, err := s.ScraperSource("https://tldrsec.com/t/Blog", scraper.ParseTLDRSec)
-	if err != nil {
-		panic(err)
-	}
+	news := s.ScrapeAll(newsSites)
+	technologies := s.ScrapeAll(technologySites)
 
-	all := slices.Concat(newsletters, summaries, blogs)
-
-	fmt.Printf("%+v\n", all)
+	articles := append(news, technologies...)
+	slices.SortFunc(articles, func(a1 models.Article, a2 models.Article) int {
+		return a1.FetchDate.Compare(a2.FetchDate)
+	})
+	if err := output.WriteJSON(articles, *path); err != nil {
+		log.Fatalf("failed to write output: %v", err)
+	}
 }

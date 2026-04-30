@@ -32,9 +32,10 @@ func ParseTLDRSec(html string) []models.Article {
 		}
 		title := strings.TrimSpace(s.Find("h2").Text())
 		desc := strings.TrimSpace(s.Find("p").Text())
-		author := strings.TrimSpace(s.Find(`a[href^="/authors"]`).Find("div span").Text())
+		// FIX: WRONG -> cannot look for /p/ since this authors <a> is not part of that. This currently makes the author of the most recent article, the author for the entire page
+		author := strings.TrimSpace(doc.Find(`a[href^="/authors"]`).First().Find("div span").Text())
 
-		articles = append(articles, models.Article{Title: title, Author: author, PublishedDate: pubDate, URL: url, Description: &desc, FetchDate: time.Now()})
+		articles = append(articles, models.Article{Title: title, Author: author, PublishedDate: pubDate, URL: "https://tldrsec.com" + url, Description: &desc, FetchDate: time.Now()})
 	})
 
 	return articles

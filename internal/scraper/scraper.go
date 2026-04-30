@@ -3,7 +3,9 @@ package scraper
 import (
 	"fmt"
 	"io"
+	"log"
 	"net/http"
+	"sync"
 	"time"
 
 	"github.com/WesleyTran0/newsfeed/pkg/models"
@@ -66,4 +68,34 @@ func (s *Scraper) ScraperSource(url string, parser func(string) []models.Article
 	}
 
 	return parser(html), nil
+}
+
+// ScrapeAll returns the list of all articles scraped from sources. Each source is parsed using its associated function.
+func (s *Scraper) ScrapeAll(sources map[string]func(string) []models.Article) []models.Article {
+	results := make(chan []models.Article, len(sources))
+
+	var wg sync.WaitGroup
+
+	for url, parser := range sources {
+		wg.Go(func() {
+			articles, err := s.ScraperSource(url, parser)
+			if err != nil {
+				log.Printf("error scraping %s: %v", url, err)
+				results <- []models.Article{}
+				return
+			}
+			results <- articles
+		})
+	}
+
+	go func() {
+		wg.Wait()
+		close(results)
+	}()
+
+	var all []models.Article
+	for articles := range results {
+		all = append(all, articles...)
+	}
+	return all
 }
