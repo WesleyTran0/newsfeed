@@ -12,7 +12,6 @@ import (
 // this function will terminate and write return the error
 func WriteJSON(articles []models.Article, path string) error {
 	finalJSON, err := json.MarshalIndent(articles, "", "  ")
-	// finalJSON, err := json.Marshal(articles)
 	if err != nil {
 		return err
 	}

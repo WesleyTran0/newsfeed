@@ -1,203 +1,11 @@
 [
   {
-    "title": "this week in security — april 26 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-04-26T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-april-26-2026-edition/",
-    "description": "Vercel hacked and customer data stolen, Apple fixes bug that cached deleted Signal messages, spy vendors caught tapping phone telcos, North Korea's very lucrative crypto heists, unauthorized access to Anthropic Mythos model, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142196732-04:00"
-  },
-  {
-    "title": "this week in security — april 19 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-04-19T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-april-19-2026-edition/",
-    "description": "Lawmakers punt on FISA spy vote, Sweden blames Russia for power plant hack, Madison Square Garden's creepy surveillance, Adobe fixes PDF hack, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142205298-04:00"
-  },
-  {
-    "title": "this week in security — april 12 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-04-12T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-april-12-2026-edition/",
-    "description": "Russia mass-hacking routers, Iran hacking critical infrastructure, Microsoft locked out developers from accounts, U.S. spyware maker sentenced, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142212501-04:00"
-  },
-  {
-    "title": "this week in security — april 5 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-04-05T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-april-5-2026-edition/",
-    "description": "North Korea breaches Axios project, ICE now using spyware, Iran targeting U.S. tech firms, DarkSword fixes for iOS 18 holdouts, a bunch of data breaches, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142219634-04:00"
-  },
-  {
-    "title": "this week in security — march 29 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-03-29T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-march-29-2026-edition/",
-    "description": "Iran's Handala hackers leak FBI Kash Patel's emails, iOS hacking tools posted online, FCC bans new foreign-made routers, open-source projects hacked, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142225966-04:00"
-  },
-  {
-    "title": "this week in security — march 22 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-03-22T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-march-22-2026-edition/",
-    "description": "Iran government hacked Stryker, new exploit kit hacks iOS 18 devices, Meta scraps Instagram E2EE, breathalyzer company hack leaves drivers stranded, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142231817-04:00"
-  },
-  {
-    "title": "this week in security — march 8 edition 2026",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-03-08T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-march-8-edition-2026/",
-    "description": "Iran's cyber army is largely quiet, U.S. CBP tracks people with ad data, Meta sued over gross smart glasses, half of zero-days found in enterprise tech, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142236926-04:00"
-  },
-  {
-    "title": "this week in security — march 1 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-03-01T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-march-1-2026-edition/",
-    "description": "U.S. deems Anthropic national security supply chain risk, CISA's acting director replaced, Marquis sues SonicWall over data breach, new Wi-Fi attack, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142241955-04:00"
-  },
-  {
-    "title": "this week in security — february 22 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-02-22T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-february-22-2026-edition/",
-    "description": "Ivanti cuts cost security, Copilot AI bug summarized confidential emails, ATM jackpotting hacks on the rise, surveillance firms tapping vehicle data, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142247115-04:00"
-  },
-  {
-    "title": "this week in security — february 15 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-02-15T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-february-15-2026-edition/",
-    "description": "Coupang's breach blamed on management, Trenchant boss stole exploits that could hack 'millions' of computers, Ring and Nest face doorbell surveillance backlash, Windows zero-days, efforts to renew U.S. spy law stall, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142252976-04:00"
-  },
-  {
-    "title": "this week in security — february 8 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-02-08T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-february-8-2026-edition/",
-    "description": "Moltbook security lapse on launch, China hijacked Notepad++ updates for months, DHS demands tech firms unmask Trump critics, many data breaches, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142257935-04:00"
-  },
-  {
-    "title": "this week in security — february 1 2026 edition",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-02-01T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/this-week-in-security-february-1-2026-edition/",
-    "description": "ShinyHunters' new hacking campaign targets 100 companies, AI app and toy spilled users' data, a pig-butchering scammer blows the whistle, Salt Typhoon hacked U.K. politicians' phones for years, and more.",
-    "dateFetched": "2026-04-29T20:38:10.142262834-04:00"
-  },
-  {
-    "title": "Why your doctor's AI recorder can be bad for your health (and privacy)",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-04-23T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/why-your-doctors-ai-recorder-can-be-bad-for-your-health-and-privacy/",
-    "description": "Privacy experts have nine good reasons why you can — and should — decline a doctor or therapist's request to record your conversations with AI tools.",
-    "dateFetched": "2026-04-29T20:38:10.146272413-04:00"
-  },
-  {
-    "title": "How hackers are helping criminal gangs hijack truck deliveries",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-04-17T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/how-hackers-are-helping-criminal-gangs-hijack-truck-deliveries/",
-    "description": "Cargo hijackings are on the rise, as cybercriminals use remote access tools to track and divert large shipments of high-end goods from delivery trucks around the world.",
-    "dateFetched": "2026-04-29T20:38:10.146280738-04:00"
-  },
-  {
-    "title": "That company's big hack probably wasn't an employee's fault",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-04-07T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/that-big-company-hack-probably-was-not-an-employees-fault/",
-    "description": "Companies that blame an employee or human error following a cyberattack often neglect to account for broader security failings.",
-    "dateFetched": "2026-04-29T20:38:10.146288272-04:00"
-  },
-  {
-    "title": "Security precautions to consider while traveling through airports",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-03-26T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/security-precautions-to-consider-while-traveling-through-airports/",
-    "description": "As border device searches rise, there are practical steps you can take to protect your devices and data from airport searches.",
-    "dateFetched": "2026-04-29T20:38:10.146295586-04:00"
-  },
-  {
-    "title": "Lawmakers seek to close loophole that allows feds to buy people's location data without a warrant",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-03-21T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/lawmakers-seek-to-close-loophole-that-allows-feds-to-buy-peoples-location-data-without-a-warrant/",
-    "description": "Federal agencies have been purchasing large datasets to track people's whereabouts from data brokers without asking a court for approval.",
-    "dateFetched": "2026-04-29T20:38:10.146303019-04:00"
-  },
-  {
-    "title": "Papers, please: Age verification laws threaten everyone's online security and privacy",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-03-18T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/papers-please-age-verification-laws-threaten-everyones-online-security-and-privacy/",
-    "description": "Laws that require adults to upload their driver's licenses or passports to access apps, websites, and VPNs will make the entire web less safe.",
-    "dateFetched": "2026-04-29T20:38:10.146309842-04:00"
-  },
-  {
-    "title": "A beginner's guide to analyzing the network traffic of apps and websites",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-03-07T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/a-beginners-guide-burp-suite-analyzing-network-traffic-of-apps-and-websites/",
-    "description": "In 2025, journalist Zack Whittaker found three popular apps were leaking sensitive user data. This is how he uses network analysis tools like Burp Suite to understand how apps and websites work and share your data. This is how you can, too.",
-    "dateFetched": "2026-04-29T20:38:10.146316424-04:00"
-  },
-  {
-    "title": "FBI agents visited my home about an article I wrote, and now I can't go to Mexico",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-02-25T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/fbi-agents-visited-my-home-about-an-article-i-wrote-and-now-i-cannot-go-to-mexico/",
-    "description": "Mexico formally requested the FBI's help in seeking answers about one of my stories. Having federal agents on my doorstep sparked my own years-long effort to pry information out of the FBI to explain why it came to my house to begin with.",
-    "dateFetched": "2026-04-29T20:38:10.146322966-04:00"
-  },
-  {
-    "title": "How tech giants track you across the web, even if you don't use their apps",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-02-14T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/how-tech-giants-track-you-across-the-web-even-if-you-do-not-use-their-apps/",
-    "description": "Ad tech giants use near-invisible \"pixels\" on web pages to track what you do online, even if you don't have an account or use their apps. Thankfully, there is a solution.",
-    "dateFetched": "2026-04-29T20:38:10.146329538-04:00"
-  },
-  {
-    "title": "Apple's Lockdown Mode: Once an 'extreme' security protection, now a necessity for Americans",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-02-10T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/apple-lockdown-mode-once-an-extreme-security-protection-now-a-necessity-for-americans/",
-    "description": "An optional \"extreme\" security feature that Apple has baked-in to modern iPhones, iPads, Macs, and Watches has passed a significant real-world test.",
-    "dateFetched": "2026-04-29T20:38:10.146337162-04:00"
-  },
-  {
-    "title": "New survey reveals how security researchers and journalists experience legal and criminal threats",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-02-02T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/new-survey-reveals-how-security-researchers-and-journalists-experience-legal-and-criminal-threats/",
-    "description": "Over 100 security researchers and journalists answered our survey and told us how they experienced threats for doing their work. Here are some of the top takeaways.",
-    "dateFetched": "2026-04-29T20:38:10.146343925-04:00"
-  },
-  {
-    "title": "Another huge leak of passwords is the tip of the infostealing iceberg",
-    "author(s)": "Zack Whittaker",
-    "date": "2026-01-26T00:00:00Z",
-    "url": "https://this.weekinsecurity.com/another-huge-leak-of-passwords-is-the-tip-of-the-infostealing-iceberg/",
-    "description": "An unprotected database that spilled 149 million usernames and passwords to the web shines new light on how infostealing malware powers cybercrime.",
-    "dateFetched": "2026-04-29T20:38:10.146350467-04:00"
-  },
-  {
     "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
     "author(s)": "Dan Goodin",
     "date": "2026-04-29T07:00:24-04:00",
     "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
     "description": "Security firms find themselves especially exposed.",
-    "dateFetched": "2026-04-29T20:38:10.315361212-04:00"
+    "dateFetched": "2026-04-29T21:19:10.104307054-04:00"
   },
   {
     "title": "Open source package with 1 million monthly downloads stole user credentials",
@@ -205,7 +13,15 @@
     "date": "2026-04-27T17:04:03-04:00",
     "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
     "description": "If you’re one of millions using element-data, it’s time to check for compromise.",
-    "dateFetched": "2026-04-29T20:38:10.315374166-04:00"
+    "dateFetched": "2026-04-29T21:19:10.104318094-04:00"
+  },
+  {
+    "title": "this week in security — april 26 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-04-26T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-april-26-2026-edition/",
+    "description": "Vercel hacked and customer data stolen, Apple fixes bug that cached deleted Signal messages, spy vendors caught tapping phone telcos, North Korea's very lucrative crypto heists, unauthorized access to Anthropic Mythos model, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875043826-04:00"
   },
   {
     "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
@@ -213,7 +29,7 @@
     "date": "2026-04-24T15:00:39-04:00",
     "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
     "description": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
-    "dateFetched": "2026-04-29T20:38:10.315384054-04:00"
+    "dateFetched": "2026-04-29T21:19:10.104327431-04:00"
   },
   {
     "title": "In a first, a ransomware family is confirmed to be quantum-safe",
@@ -221,455 +37,7 @@
     "date": "2026-04-23T16:41:23-04:00",
     "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
     "description": "Technically speaking, there’s no practical benefit to use PQC. So why is it being used?",
-    "dateFetched": "2026-04-29T20:38:10.315393672-04:00"
-  },
-  {
-    "title": "Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage",
-    "author(s)": "Jeremy Hsu",
-    "date": "2026-04-22T18:07:54-04:00",
-    "url": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/",
-    "description": "Ship attacked by Iran after possibly falling for safe passage crypto scam.",
-    "dateFetched": "2026-04-29T20:38:10.315402197-04:00"
-  },
-  {
-    "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
-    "author(s)": "Dan Goodin",
-    "date": "2026-04-22T15:32:56-04:00",
-    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
-    "description": "When authentication fails, things can go very, very wrong.",
-    "dateFetched": "2026-04-29T20:38:10.315412356-04:00"
-  },
-  {
-    "title": "Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150",
-    "author(s)": "Kyle Orland",
-    "date": "2026-04-21T17:40:41-04:00",
-    "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-    "description": "CTO says new AI model is “every bit as capable” as world’s best security researchers.",
-    "dateFetched": "2026-04-29T20:38:10.315421493-04:00"
-  },
-  {
-    "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-    "author(s)": "Dan Goodin",
-    "date": "2026-04-21T08:35:20-04:00",
-    "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
-    "description": "A stubborn misconception is hampering the already hard work of quantum readiness.",
-    "dateFetched": "2026-04-29T20:38:10.315429498-04:00"
-  },
-  {
-    "title": "US-sanctioned currency exchange says $15 million heist done by “unfriendly states”",
-    "author(s)": "Dan Goodin",
-    "date": "2026-04-17T17:28:35-04:00",
-    "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-    "description": "Grinex says needed hacking resources “available exclusively to… unfriendly states.”",
-    "dateFetched": "2026-04-29T20:38:10.315438775-04:00"
-  },
-  {
-    "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-    "author(s)": "Dan Goodin",
-    "date": "2026-04-17T07:00:50-04:00",
-    "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-    "description": "Here’s which players are winning the race to transition to post-quantum crypto.",
-    "dateFetched": "2026-04-29T20:38:10.315447922-04:00"
-  },
-  {
-    "title": "“TotalRecall Reloaded” tool finds a side entrance to Windows 11’s Recall database",
-    "author(s)": "Andrew Cunningham",
-    "date": "2026-04-15T16:36:28-04:00",
-    "url": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
-    "description": "“The vault is solid. The delivery truck is not.”",
-    "dateFetched": "2026-04-29T20:38:10.315456418-04:00"
-  },
-  {
-    "title": "UK gov’s Mythos AI tests help separate cybersecurity threat from hype",
-    "author(s)": "Kyle Orland",
-    "date": "2026-04-14T15:11:25-04:00",
-    "url": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-    "description": "New model is the first AI system to complete a difficult multistep infiltration challenge.",
-    "dateFetched": "2026-04-29T20:38:10.315464282-04:00"
-  },
-  {
-    "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
-    "author(s)": "Dan Goodin",
-    "date": "2026-04-08T16:49:11-04:00",
-    "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
-    "description": "As the US and Israel’s war has ramped up, so too have hacks on US industrial sites.",
-    "dateFetched": "2026-04-29T20:38:10.315472488-04:00"
-  },
-  {
-    "title": "Thousands of consumer routers hacked by Russia’s military",
-    "author(s)": "Dan Goodin",
-    "date": "2026-04-08T07:00:08-04:00",
-    "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
-    "description": "End-of-life routers in homes and small offices hacked in 120 countries.",
-    "dateFetched": "2026-04-29T20:38:10.315480252-04:00"
-  },
-  {
-    "title": "CBP facility codes sure seem to have leaked via online flashcards",
-    "author(s)": "WIRED",
-    "date": "2026-04-05T07:07:27-04:00",
-    "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
-    "description": "Quizlet flashcards seem to include sensitive information about gate security at CBP locations.",
-    "dateFetched": "2026-04-29T20:38:10.315488066-04:00"
-  },
-  {
-    "title": "OpenClaw gives users yet another reason to be freaked out about security",
-    "author(s)": "Dan Goodin",
-    "date": "2026-04-03T16:30:15-04:00",
-    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-    "description": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
-    "dateFetched": "2026-04-29T20:38:10.315496302-04:00"
-  },
-  {
-    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-    "author(s)": "Dan Goodin",
-    "date": "2026-04-02T13:00:11-04:00",
-    "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-    "description": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
-    "dateFetched": "2026-04-29T20:38:10.315505268-04:00"
-  },
-  {
-    "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-31T14:25:33-04:00",
-    "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
-    "description": "No, the sky isn’t falling, but Q Day is coming, and it won’t be as expensive as thought.",
-    "dateFetched": "2026-04-29T20:38:10.315513433-04:00"
-  },
-  {
-    "title": "Iran’s hackers are on the offensive against the US and Israel",
-    "author(s)": "Financial Times",
-    "date": "2026-03-31T09:37:48-04:00",
-    "url": "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/",
-    "description": "Tehran hopes to stoke fear and extract intel in a series of cyber attacks.",
-    "dateFetched": "2026-04-29T20:38:10.315526417-04:00"
-  },
-  {
-    "title": "Internet Yiff Machine: We hacked 93GB of “anonymous” crime tips",
-    "author(s)": "Nate Anderson",
-    "date": "2026-03-26T17:04:31-04:00",
-    "url": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
-    "description": "Ultra-sensitive data may have been hacked.",
-    "dateFetched": "2026-04-29T20:38:10.315533951-04:00"
-  },
-  {
-    "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-25T11:49:17-04:00",
-    "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
-    "description": "Company warns entire industry to move off RSA and EC more quickly.",
-    "dateFetched": "2026-04-29T20:38:10.315541555-04:00"
-  },
-  {
-    "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-24T08:38:09-04:00",
-    "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-    "description": "Development houses: It’s time to check your networks for infections.",
-    "dateFetched": "2026-04-29T20:38:10.315548158-04:00"
-  },
-  {
-    "title": "After hackers hit an Iowa company, cars around the country failed to start",
-    "author(s)": "Nate Anderson",
-    "date": "2026-03-23T17:10:14-04:00",
-    "url": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
-    "description": "If you don’t calibrate your interlock in time, your vehicle is dead.",
-    "dateFetched": "2026-04-29T20:38:10.31555494-04:00"
-  },
-  {
-    "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-20T16:50:46-04:00",
-    "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
-    "description": "Admins: Sorry to say, but it’s likely a rotate-your-secrets kind of weekend.",
-    "dateFetched": "2026-04-29T20:38:10.315561462-04:00"
-  },
-  {
-    "title": "Millions of iPhones can be hacked with a new tool found in the wild",
-    "author(s)": "WIRED",
-    "date": "2026-03-19T16:11:36-04:00",
-    "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-    "description": "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers.",
-    "dateFetched": "2026-04-29T20:38:10.315568325-04:00"
-  },
-  {
-    "title": "Google details new 24-hour process to sideload unverified Android apps",
-    "author(s)": "Ryan Whitwam",
-    "date": "2026-03-19T13:28:26-04:00",
-    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-    "description": "The “advanced flow” will be available before verification enforcement begins later this year.",
-    "dateFetched": "2026-04-29T20:38:10.315575097-04:00"
-  },
-  {
-    "title": "How World ID wants to put a unique human identity on every AI agent",
-    "author(s)": "Kyle Orland",
-    "date": "2026-03-17T17:28:27-04:00",
-    "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-    "description": "Iris scan-backed tokens could help stop agent swarms from overwhelming online systems.",
-    "dateFetched": "2026-04-29T20:38:10.315581539-04:00"
-  },
-  {
-    "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-17T13:07:12-04:00",
-    "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
-    "description": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
-    "dateFetched": "2026-04-29T20:38:10.315588262-04:00"
-  },
-  {
-    "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-13T16:18:08-04:00",
-    "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-    "description": "Unicode that’s invisible to the human eye was largely abandoned—until attackers took notice.",
-    "dateFetched": "2026-04-29T20:38:10.315595435-04:00"
-  },
-  {
-    "title": "The who, what, and why of the attack that has shut down Stryker’s Windows network",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-12T18:18:11-04:00",
-    "url": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
-    "description": "Company says it doesn’t know how long it will take to restore its Microsoft environment.",
-    "dateFetched": "2026-04-29T20:38:10.315602177-04:00"
-  },
-  {
-    "title": "14,000 routers are infected by malware that’s highly resistant to takedowns",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-11T17:27:16-04:00",
-    "url": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
-    "description": "Most of the devices are made by Asus and are located in the US.",
-    "dateFetched": "2026-04-29T20:38:10.31560921-04:00"
-  },
-  {
-    "title": "From Iran to Ukraine, everyone’s trying to hack security cameras",
-    "author(s)": "WIRED",
-    "date": "2026-03-07T06:30:06-05:00",
-    "url": "https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/",
-    "description": "Research shows apparent Iranian state hackers trying to hijack consumer-grade cameras.",
-    "dateFetched": "2026-04-29T20:38:10.315616053-04:00"
-  },
-  {
-    "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-06T14:41:33-05:00",
-    "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
-    "description": "The long, strange trip of a large assembly of advanced iOS exploits.",
-    "dateFetched": "2026-04-29T20:38:10.315623767-04:00"
-  },
-  {
-    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-    "author(s)": "Dan Goodin",
-    "date": "2026-03-03T07:30:24-05:00",
-    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-    "description": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-    "dateFetched": "2026-04-29T20:38:10.3156307-04:00"
-  },
-  {
-    "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-    "author(s)": "Dan Goodin",
-    "date": "2026-02-27T20:26:41-05:00",
-    "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-    "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
-    "dateFetched": "2026-04-29T20:38:10.315641059-04:00"
-  },
-  {
-    "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
-    "author(s)": "Dan Goodin",
-    "date": "2026-02-26T10:45:18-05:00",
-    "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-    "description": "That guest network you set up for your neighbors may not be as secure as you think.",
-    "dateFetched": "2026-04-29T20:38:10.315648313-04:00"
-  },
-  {
-    "title": "How we made Trail of Bits AI-native (so far)",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2026-03-31T11:30:00Z",
-    "url": "https://tldrsec.com/p/how-we-made-trail-of-bits-ai-native-so-far",
-    "description": "We had 5% buy-in and 95% resistance. A year later, AI-augmented auditors are finding 200 bugs a week on the right engagements. Here's the six-part operating system we built, open sourced, and are giving away.",
-    "dateFetched": "2026-04-29T20:38:10.939484477-04:00"
-  },
-  {
-    "title": "Intent Over Tactics: A CISO's Guide to Protecting Your Crown Jewels",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2025-07-30T05:17:02.689Z",
-    "url": "https://tldrsec.com/p/intent-over-tactics-crown-jewels",
-    "description": "A practical guide to protecting your most critical assets when budget, head-count, and political capital are tight.",
-    "dateFetched": "2026-04-29T20:38:10.939500978-04:00"
-  },
-  {
-    "title": "AppSec as Glue: Building Partnerships to Scale Security",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2025-06-25T14:30:00Z",
-    "url": "https://tldrsec.com/p/bsidessf-2025-appsec-as-glue-building-partnerships",
-    "description": "Answers to additional audience questions from this BSidesSF 2025 panel on scaling security impact by building essential partnerships across teams",
-    "dateFetched": "2026-04-29T20:38:10.939523439-04:00"
-  },
-  {
-    "title": "Security for High Velocity Engineering",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2025-05-13T14:30:00Z",
-    "url": "https://tldrsec.com/p/security-for-high-velocity-engineering",
-    "description": "Strategy and Tactics for Protecting and Enabling Modern Software Organizations",
-    "dateFetched": "2026-04-29T20:38:10.939539239-04:00"
-  },
-  {
-    "title": "What sucks in security? Research findings from 50+ security leaders",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2024-12-10T16:00:00Z",
-    "url": "https://tldrsec.com/p/what-sucks-in-security",
-    "description": "A deep dive into what CISOs are actually complaining about",
-    "dateFetched": "2026-04-29T20:38:10.939553555-04:00"
-  },
-  {
-    "title": "Systems Thinking for Cybersecurity Professionals",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2024-11-13T15:30:00Z",
-    "url": "https://tldrsec.com/p/systems-thinking-for-cybersecurity-professionals",
-    "description": "Let's hit RESET!",
-    "dateFetched": "2026-04-29T20:38:10.93956704-04:00"
-  },
-  {
-    "title": "Sub-Venture Scale Security Problems",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2024-06-12T15:51:00Z",
-    "url": "https://tldrsec.com/p/sub-venture-scale-security-problems",
-    "description": "",
-    "dateFetched": "2026-04-29T20:38:10.939581106-04:00"
-  },
-  {
-    "title": "The Race to Make a Business of Secure Defaults",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2024-06-05T16:04:18.922Z",
-    "url": "https://tldrsec.com/p/business-of-secure-defaults",
-    "description": "",
-    "dateFetched": "2026-04-29T20:38:10.9395939-04:00"
-  },
-  {
-    "title": "Don’t Security Engineer Asymmetric Workloads",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2024-05-29T16:02:59.153Z",
-    "url": "https://tldrsec.com/p/dont-security-engineer-asymmetry",
-    "description": "",
-    "dateFetched": "2026-04-29T20:38:10.939609248-04:00"
-  },
-  {
-    "title": "Wiring a Winning Security Organization",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2024-05-15T17:30:00Z",
-    "url": "https://tldrsec.com/p/wiring-a-winning-security-organization",
-    "description": "",
-    "dateFetched": "2026-04-29T20:38:10.939624787-04:00"
-  },
-  {
-    "title": "Security is a Team Sport",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2024-04-24T15:30:00Z",
-    "url": "https://tldrsec.com/p/security-is-a-team-sport",
-    "description": "A call to action, with practical advice",
-    "dateFetched": "2026-04-29T20:38:10.939641217-04:00"
-  },
-  {
-    "title": "Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!",
-    "author(s)": "Clint Gibler, +1",
-    "date": "2024-03-22T14:30:00Z",
-    "url": "https://tldrsec.com/p/kubernetes-security-threat-informed-defense",
-    "description": "A threat-informed roadmap for securing Kubernetes clusters",
-    "dateFetched": "2026-04-29T20:38:10.939658529-04:00"
-  },
-  {
-    "title": "TL;DR: Every AI Talk from BSidesLV, Black Hat, and DEF CON 2024",
-    "author(s)": "Clint Gibler",
-    "date": "2024-08-28T14:30:00Z",
-    "url": "https://tldrsec.com/p/tldr-every-ai-talk-bsideslv-blackhat-defcon-2024",
-    "description": "Get up to speed on \u003e60 AI talks in 15 minutes",
-    "dateFetched": "2026-04-29T20:38:10.967485826-04:00"
-  },
-  {
-    "title": "Every AI Talk from DEF CON 2024",
-    "author(s)": "Clint Gibler",
-    "date": "2024-08-28T04:40:31.803Z",
-    "url": "https://tldrsec.com/p/2024-defcon-ai-talks",
-    "description": "A list of all of the talks, abstracts, recordings, slides, papers, and tools for the Main Track and \u003e10 villages",
-    "dateFetched": "2026-04-29T20:38:10.967502366-04:00"
-  },
-  {
-    "title": "Every AI Talk from BSidesLV and BlackHat USA 2024",
-    "author(s)": "Clint Gibler",
-    "date": "2024-08-28T04:34:04.828Z",
-    "url": "https://tldrsec.com/p/2024-bsideslv-blackhat-ai-talks",
-    "description": "A list of all of the talks, abstracts, recordings, slides, papers, and tools from BSidesLV and BlackHat USA",
-    "dateFetched": "2026-04-29T20:38:10.967517925-04:00"
-  },
-  {
-    "title": "Software Supply Chain Vendor Landscape",
-    "author(s)": "Clint Gibler",
-    "date": "2023-10-03T17:14:09.776Z",
-    "url": "https://tldrsec.com/p/software-supply-chain-vendor-landscape",
-    "description": "An analysis of over 20 supply chain security vendors, from securing source code access and CI/CD pipelines to SCA, malicious dependencies, container security, SBOMs, code provenance, and more",
-    "dateFetched": "2026-04-29T20:38:10.967534155-04:00"
-  },
-  {
-    "title": "Cache Me If You Can: Messing with Web Caching",
-    "author(s)": "Clint Gibler",
-    "date": "2023-07-03T22:39:30.68Z",
-    "url": "https://tldrsec.com/p/appsec-cache-me-if-you-can-messing-with-web-caching-ae8c",
-    "description": "In this talk, Louis covers 3 web cache related attacks: cache deception, edge side includes, and cache poisoning.",
-    "dateFetched": "2026-04-29T20:38:10.96756417-04:00"
-  },
-  {
-    "title": "Starting Strength for AppSec: What Mark Rippetoe can Teach You About Building AppSec Muscles",
-    "author(s)": "Clint Gibler",
-    "date": "2023-06-13T18:16:36.05Z",
-    "url": "https://tldrsec.com/p/appsec-starting-strength-for-appsec-what-mark-rippetoe-can-teach-you-about-building-appsec-muscles",
-    "description": "",
-    "dateFetched": "2026-04-29T20:38:10.967580641-04:00"
-  },
-  {
-    "title": "Netflix’s Layered Approach to Reducing Risk of Credential Compromise",
-    "author(s)": "Clint Gibler",
-    "date": "2023-06-13T18:14:09.69Z",
-    "url": "https://tldrsec.com/p/appsec-netflix-s-layered-approach-to-reducing-risk-of-credential-compromise",
-    "description": "",
-    "dateFetched": "2026-04-29T20:38:10.967595428-04:00"
-  },
-  {
-    "title": "Dev Akhawe’s Follow-up on Figma’s Experience Switching to WebAuthN",
-    "author(s)": "Clint Gibler",
-    "date": "2022-02-14T20:00:00Z",
-    "url": "https://tldrsec.com/p/blog-dev-figma-webauthn-followup",
-    "description": "The good, the bad, and the lessons learned.",
-    "dateFetched": "2026-04-29T20:38:10.967611197-04:00"
-  },
-  {
-    "title": "Grow Your Best Employees or Lose Them",
-    "author(s)": "Clint Gibler",
-    "date": "2021-08-31T04:00:00Z",
-    "url": "https://tldrsec.com/p/blog-grow-employees-or-lose-them",
-    "description": "Travis McPeak recommends",
-    "dateFetched": "2026-04-29T20:38:10.967626366-04:00"
-  },
-  {
-    "title": "Travis McPeak: Why Companies don't 'Just Patch'",
-    "author(s)": "Clint Gibler",
-    "date": "2021-08-18T04:00:00Z",
-    "url": "https://tldrsec.com/p/blog-why-companies-dont-patch",
-    "description": "Why patching in the real world is hard, and what to do about it.",
-    "dateFetched": "2026-04-29T20:38:10.967641734-04:00"
-  },
-  {
-    "title": "Riana Pfefferkorn: I Have a Lot to Say About Signal’s Cellebrite Hack",
-    "author(s)": "Clint Gibler",
-    "date": "2021-05-19T04:00:00Z",
-    "url": "https://tldrsec.com/p/blog-riana-signal-cellebrite-hack",
-    "description": "Stanford Internet Observatory Research Scholar [Riana Pfefferkorn](https://twitter.com/Riana_Crypto) shares her thoughts on legal implications of the Cellebrite hack.",
-    "dateFetched": "2026-04-29T20:38:10.967656521-04:00"
-  },
-  {
-    "title": "How Figma Switched Their Okta to Only Allow Phish-proof WebAuthn/FIDO Multi-factor Authentication",
-    "author(s)": "Clint Gibler",
-    "date": "2021-05-06T04:00:00Z",
-    "url": "https://tldrsec.com/p/blog-dev-figma-okta-webauthn-fido-only",
-    "description": "An excellent Twitter thread by Dev Akhawe on the value of making this switch, and challenges and lessons learned along the way.",
-    "dateFetched": "2026-04-29T20:38:10.967670888-04:00"
+    "dateFetched": "2026-04-29T21:19:10.104335996-04:00"
   },
   {
     "title": "[tl;dr sec] #325 - Dissecting Mythos, The $0 Security Stack, GitHub Action Red Team Framework",
@@ -677,7 +45,79 @@
     "date": "2026-04-23T14:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-325",
     "description": "Replicating Mythos bugs with public models and more, building a useful security program for free, new post-exploitation framework for CI/CD pipelines that can replicate the full TeamPCP attack kill chain",
-    "dateFetched": "2026-04-29T20:38:12.468080957-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151068071-04:00"
+  },
+  {
+    "title": "Why your doctor's AI recorder can be bad for your health (and privacy)",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-04-23T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/why-your-doctors-ai-recorder-can-be-bad-for-your-health-and-privacy/",
+    "description": "Privacy experts have nine good reasons why you can — and should — decline a doctor or therapist's request to record your conversations with AI tools.",
+    "dateFetched": "2026-04-29T21:19:09.87698008-04:00"
+  },
+  {
+    "title": "Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage",
+    "author(s)": "Jeremy Hsu",
+    "date": "2026-04-22T18:07:54-04:00",
+    "url": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/",
+    "description": "Ship attacked by Iran after possibly falling for safe passage crypto scam.",
+    "dateFetched": "2026-04-29T21:19:10.104343891-04:00"
+  },
+  {
+    "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "author(s)": "Dan Goodin",
+    "date": "2026-04-22T15:32:56-04:00",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "description": "When authentication fails, things can go very, very wrong.",
+    "dateFetched": "2026-04-29T21:19:10.104351875-04:00"
+  },
+  {
+    "title": "Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150",
+    "author(s)": "Kyle Orland",
+    "date": "2026-04-21T17:40:41-04:00",
+    "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+    "description": "CTO says new AI model is “every bit as capable” as world’s best security researchers.",
+    "dateFetched": "2026-04-29T21:19:10.104366352-04:00"
+  },
+  {
+    "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+    "author(s)": "Dan Goodin",
+    "date": "2026-04-21T08:35:20-04:00",
+    "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+    "description": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+    "dateFetched": "2026-04-29T21:19:10.104377312-04:00"
+  },
+  {
+    "title": "this week in security — april 19 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-04-19T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-april-19-2026-edition/",
+    "description": "Lawmakers punt on FISA spy vote, Sweden blames Russia for power plant hack, Madison Square Garden's creepy surveillance, Adobe fixes PDF hack, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875083078-04:00"
+  },
+  {
+    "title": "US-sanctioned currency exchange says $15 million heist done by “unfriendly states”",
+    "author(s)": "Dan Goodin",
+    "date": "2026-04-17T17:28:35-04:00",
+    "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+    "description": "Grinex says needed hacking resources “available exclusively to… unfriendly states.”",
+    "dateFetched": "2026-04-29T21:19:10.10439828-04:00"
+  },
+  {
+    "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+    "author(s)": "Dan Goodin",
+    "date": "2026-04-17T07:00:50-04:00",
+    "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+    "description": "Here’s which players are winning the race to transition to post-quantum crypto.",
+    "dateFetched": "2026-04-29T21:19:10.104413498-04:00"
+  },
+  {
+    "title": "How hackers are helping criminal gangs hijack truck deliveries",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-04-17T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/how-hackers-are-helping-criminal-gangs-hijack-truck-deliveries/",
+    "description": "Cargo hijackings are on the rise, as cybercriminals use remote access tools to track and divert large shipments of high-end goods from delivery trucks around the world.",
+    "dateFetched": "2026-04-29T21:19:09.8769908-04:00"
   },
   {
     "title": "[tl;dr sec] #324 - OpenAI's GPT-5.4-Cyber, Solve by Default, GitHub Action Security",
@@ -685,7 +125,31 @@
     "date": "2026-04-16T14:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-324",
     "description": "OpenAI's new cyber-focused model and early access program, how to solve instead of defer tasks, securing GitHub Actions",
-    "dateFetched": "2026-04-29T20:38:12.468101906-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151077959-04:00"
+  },
+  {
+    "title": "“TotalRecall Reloaded” tool finds a side entrance to Windows 11’s Recall database",
+    "author(s)": "Andrew Cunningham",
+    "date": "2026-04-15T16:36:28-04:00",
+    "url": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
+    "description": "“The vault is solid. The delivery truck is not.”",
+    "dateFetched": "2026-04-29T21:19:10.104420701-04:00"
+  },
+  {
+    "title": "UK gov’s Mythos AI tests help separate cybersecurity threat from hype",
+    "author(s)": "Kyle Orland",
+    "date": "2026-04-14T15:11:25-04:00",
+    "url": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+    "description": "New model is the first AI system to complete a difficult multistep infiltration challenge.",
+    "dateFetched": "2026-04-29T21:19:10.104427233-04:00"
+  },
+  {
+    "title": "this week in security — april 12 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-04-12T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-april-12-2026-edition/",
+    "description": "Russia mass-hacking routers, Iran hacking critical infrastructure, Microsoft locked out developers from accounts, U.S. spyware maker sentenced, and more.",
+    "dateFetched": "2026-04-29T21:19:09.87509519-04:00"
   },
   {
     "title": "[tl;dr sec] #323 - Anthropic Mythos, Security Program Politics, Vulnerability Research is Cooked",
@@ -693,7 +157,63 @@
     "date": "2026-04-09T14:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-323",
     "description": "New model finds thousands of 0-days and writes exploits, lessons and how to be influential from decades of being a CISO, why LLMs will democratize elite vuln hunting",
-    "dateFetched": "2026-04-29T20:38:12.468120971-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151086505-04:00"
+  },
+  {
+    "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+    "author(s)": "Dan Goodin",
+    "date": "2026-04-08T16:49:11-04:00",
+    "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+    "description": "As the US and Israel’s war has ramped up, so too have hacks on US industrial sites.",
+    "dateFetched": "2026-04-29T21:19:10.104433464-04:00"
+  },
+  {
+    "title": "Thousands of consumer routers hacked by Russia’s military",
+    "author(s)": "Dan Goodin",
+    "date": "2026-04-08T07:00:08-04:00",
+    "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
+    "description": "End-of-life routers in homes and small offices hacked in 120 countries.",
+    "dateFetched": "2026-04-29T21:19:10.104439746-04:00"
+  },
+  {
+    "title": "That company's big hack probably wasn't an employee's fault",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-04-07T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/that-big-company-hack-probably-was-not-an-employees-fault/",
+    "description": "Companies that blame an employee or human error following a cyberattack often neglect to account for broader security failings.",
+    "dateFetched": "2026-04-29T21:19:09.877000548-04:00"
+  },
+  {
+    "title": "CBP facility codes sure seem to have leaked via online flashcards",
+    "author(s)": "WIRED",
+    "date": "2026-04-05T07:07:27-04:00",
+    "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+    "description": "Quizlet flashcards seem to include sensitive information about gate security at CBP locations.",
+    "dateFetched": "2026-04-29T21:19:10.104449163-04:00"
+  },
+  {
+    "title": "this week in security — april 5 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-04-05T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-april-5-2026-edition/",
+    "description": "North Korea breaches Axios project, ICE now using spyware, Iran targeting U.S. tech firms, DarkSword fixes for iOS 18 holdouts, a bunch of data breaches, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875115226-04:00"
+  },
+  {
+    "title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "author(s)": "Dan Goodin",
+    "date": "2026-04-03T16:30:15-04:00",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "description": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+    "dateFetched": "2026-04-29T21:19:10.104459151-04:00"
+  },
+  {
+    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+    "author(s)": "Dan Goodin",
+    "date": "2026-04-02T13:00:11-04:00",
+    "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+    "description": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
+    "dateFetched": "2026-04-29T21:19:10.104465313-04:00"
   },
   {
     "title": "[tl;dr sec] #322 - GitHub's Supply Chain Roadmap, Scaling Vulnerability Management with AI, Finding Vulnerabilities Across Repos",
@@ -701,7 +221,47 @@
     "date": "2026-04-02T14:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-322",
     "description": "GitHub's plan to harden GitHub Actions and supply chain security, automating and scaling SAST and SCA vuln management, OSS tool that uses AI agents to reason about vulns across repos",
-    "dateFetched": "2026-04-29T20:38:12.468140046-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151098256-04:00"
+  },
+  {
+    "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-31T14:25:33-04:00",
+    "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+    "description": "No, the sky isn’t falling, but Q Day is coming, and it won’t be as expensive as thought.",
+    "dateFetched": "2026-04-29T21:19:10.104476152-04:00"
+  },
+  {
+    "title": "Iran’s hackers are on the offensive against the US and Israel",
+    "author(s)": "Financial Times",
+    "date": "2026-03-31T09:37:48-04:00",
+    "url": "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/",
+    "description": "Tehran hopes to stoke fear and extract intel in a series of cyber attacks.",
+    "dateFetched": "2026-04-29T21:19:10.104486451-04:00"
+  },
+  {
+    "title": "How we made Trail of Bits AI-native (so far)",
+    "author(s)": "Clint Gibler, +1",
+    "date": "2026-03-31T11:30:00Z",
+    "url": "https://tldrsec.com/p/how-we-made-trail-of-bits-ai-native-so-far",
+    "description": "We had 5% buy-in and 95% resistance. A year later, AI-augmented auditors are finding 200 bugs a week on the right engagements. Here's the six-part operating system we built, open sourced, and are giving away.",
+    "dateFetched": "2026-04-29T21:19:10.73569953-04:00"
+  },
+  {
+    "title": "this week in security — march 29 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-03-29T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-march-29-2026-edition/",
+    "description": "Iran's Handala hackers leak FBI Kash Patel's emails, iOS hacking tools posted online, FCC bans new foreign-made routers, open-source projects hacked, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875126106-04:00"
+  },
+  {
+    "title": "Internet Yiff Machine: We hacked 93GB of “anonymous” crime tips",
+    "author(s)": "Nate Anderson",
+    "date": "2026-03-26T17:04:31-04:00",
+    "url": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
+    "description": "Ultra-sensitive data may have been hacked.",
+    "dateFetched": "2026-04-29T21:19:10.104492893-04:00"
   },
   {
     "title": "[tl;dr sec] #321 - Sandboxing AI Agents, Trivy Compromised, Pentesting AWS' AI Pentester",
@@ -709,7 +269,79 @@
     "date": "2026-03-26T14:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-321",
     "description": "Sandbox approaches by NVIDIA and Niel Provos, moar supply chain compromises, vulnerabilities in AWS Security Agent",
-    "dateFetched": "2026-04-29T20:38:12.46815835-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151106621-04:00"
+  },
+  {
+    "title": "Security precautions to consider while traveling through airports",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-03-26T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/security-precautions-to-consider-while-traveling-through-airports/",
+    "description": "As border device searches rise, there are practical steps you can take to protect your devices and data from airport searches.",
+    "dateFetched": "2026-04-29T21:19:09.877022408-04:00"
+  },
+  {
+    "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-25T11:49:17-04:00",
+    "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+    "description": "Company warns entire industry to move off RSA and EC more quickly.",
+    "dateFetched": "2026-04-29T21:19:10.104502751-04:00"
+  },
+  {
+    "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-24T08:38:09-04:00",
+    "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+    "description": "Development houses: It’s time to check your networks for infections.",
+    "dateFetched": "2026-04-29T21:19:10.104512749-04:00"
+  },
+  {
+    "title": "After hackers hit an Iowa company, cars around the country failed to start",
+    "author(s)": "Nate Anderson",
+    "date": "2026-03-23T17:10:14-04:00",
+    "url": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
+    "description": "If you don’t calibrate your interlock in time, your vehicle is dead.",
+    "dateFetched": "2026-04-29T21:19:10.104519461-04:00"
+  },
+  {
+    "title": "this week in security — march 22 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-03-22T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-march-22-2026-edition/",
+    "description": "Iran government hacked Stryker, new exploit kit hacks iOS 18 devices, Meta scraps Instagram E2EE, breathalyzer company hack leaves drivers stranded, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875136094-04:00"
+  },
+  {
+    "title": "Lawmakers seek to close loophole that allows feds to buy people's location data without a warrant",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-03-21T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/lawmakers-seek-to-close-loophole-that-allows-feds-to-buy-peoples-location-data-without-a-warrant/",
+    "description": "Federal agencies have been purchasing large datasets to track people's whereabouts from data brokers without asking a court for approval.",
+    "dateFetched": "2026-04-29T21:19:09.877038257-04:00"
+  },
+  {
+    "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-20T16:50:46-04:00",
+    "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+    "description": "Admins: Sorry to say, but it’s likely a rotate-your-secrets kind of weekend.",
+    "dateFetched": "2026-04-29T21:19:10.104527336-04:00"
+  },
+  {
+    "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+    "author(s)": "WIRED",
+    "date": "2026-03-19T16:11:36-04:00",
+    "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+    "description": "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers.",
+    "dateFetched": "2026-04-29T21:19:10.104538777-04:00"
+  },
+  {
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
+    "author(s)": "Ryan Whitwam",
+    "date": "2026-03-19T13:28:26-04:00",
+    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "description": "The “advanced flow” will be available before verification enforcement begins later this year.",
+    "dateFetched": "2026-04-29T21:19:10.104545309-04:00"
   },
   {
     "title": "[tl;dr sec] #320 - Ramp's Security Agents, How Datadog Caught Malicious OSS Contributions, Obliterating Model Refusals",
@@ -717,7 +349,47 @@
     "date": "2026-03-19T14:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-320",
     "description": "How Ramp fixed ~100 security issues in 6 days, detecting and mitigating GitHub supply chain attacks, two tools to automatically remove censorship from models",
-    "dateFetched": "2026-04-29T20:38:12.468178117-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151115427-04:00"
+  },
+  {
+    "title": "Papers, please: Age verification laws threaten everyone's online security and privacy",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-03-18T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/papers-please-age-verification-laws-threaten-everyones-online-security-and-privacy/",
+    "description": "Laws that require adults to upload their driver's licenses or passports to access apps, websites, and VPNs will make the entire web less safe.",
+    "dateFetched": "2026-04-29T21:19:09.877054827-04:00"
+  },
+  {
+    "title": "How World ID wants to put a unique human identity on every AI agent",
+    "author(s)": "Kyle Orland",
+    "date": "2026-03-17T17:28:27-04:00",
+    "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+    "description": "Iris scan-backed tokens could help stop agent swarms from overwhelming online systems.",
+    "dateFetched": "2026-04-29T21:19:10.104550869-04:00"
+  },
+  {
+    "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-17T13:07:12-04:00",
+    "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+    "description": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+    "dateFetched": "2026-04-29T21:19:10.104558703-04:00"
+  },
+  {
+    "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-13T16:18:08-04:00",
+    "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+    "description": "Unicode that’s invisible to the human eye was largely abandoned—until attackers took notice.",
+    "dateFetched": "2026-04-29T21:19:10.104568431-04:00"
+  },
+  {
+    "title": "The who, what, and why of the attack that has shut down Stryker’s Windows network",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-12T18:18:11-04:00",
+    "url": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+    "description": "Company says it doesn’t know how long it will take to restore its Microsoft environment.",
+    "dateFetched": "2026-04-29T21:19:10.104574071-04:00"
   },
   {
     "title": "[tl;dr sec] #319 - AI is Eating Security, BSidesSF \u0026 RSA, Claude Finds Firefox 0-days",
@@ -725,7 +397,47 @@
     "date": "2026-03-12T14:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-319",
     "description": "What does security look like in 5 years? Let's hang out in San Francisco and avoid badge scans, Opus 4.6 finds 22 vulns and auto-writes 2 exploits",
-    "dateFetched": "2026-04-29T20:38:12.468197512-04:00"
+    "dateFetched": "2026-04-29T21:19:12.15112215-04:00"
+  },
+  {
+    "title": "14,000 routers are infected by malware that’s highly resistant to takedowns",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-11T17:27:16-04:00",
+    "url": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
+    "description": "Most of the devices are made by Asus and are located in the US.",
+    "dateFetched": "2026-04-29T21:19:10.104579882-04:00"
+  },
+  {
+    "title": "this week in security — march 8 edition 2026",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-03-08T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-march-8-edition-2026/",
+    "description": "Iran's cyber army is largely quiet, U.S. CBP tracks people with ad data, Meta sued over gross smart glasses, half of zero-days found in enterprise tech, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875145492-04:00"
+  },
+  {
+    "title": "From Iran to Ukraine, everyone’s trying to hack security cameras",
+    "author(s)": "WIRED",
+    "date": "2026-03-07T06:30:06-05:00",
+    "url": "https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/",
+    "description": "Research shows apparent Iranian state hackers trying to hijack consumer-grade cameras.",
+    "dateFetched": "2026-04-29T21:19:10.104588047-04:00"
+  },
+  {
+    "title": "A beginner's guide to analyzing the network traffic of apps and websites",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-03-07T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/a-beginners-guide-burp-suite-analyzing-network-traffic-of-apps-and-websites/",
+    "description": "In 2025, journalist Zack Whittaker found three popular apps were leaking sensitive user data. This is how he uses network analysis tools like Burp Suite to understand how apps and websites work and share your data. This is how you can, too.",
+    "dateFetched": "2026-04-29T21:19:09.877071377-04:00"
+  },
+  {
+    "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-06T14:41:33-05:00",
+    "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+    "description": "The long, strange trip of a large assembly of advanced iOS exploits.",
+    "dateFetched": "2026-04-29T21:19:10.104597965-04:00"
   },
   {
     "title": "[tl;dr sec] #318 - Unprompted Talk Summaries, AI Bot Hacking GitHub Actions, AI Skills \u0026 Semgrep Rules",
@@ -733,7 +445,39 @@
     "date": "2026-03-05T15:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-318",
     "description": "Slides + notes for the CodeMender and AI for Shai-Hulud response talks, an AI bot was autonomously hacking GitHub Actions, security-focused Skills and AI anti-pattern Semgrep rules",
-    "dateFetched": "2026-04-29T20:38:12.468215696-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151129182-04:00"
+  },
+  {
+    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+    "author(s)": "Dan Goodin",
+    "date": "2026-03-03T07:30:24-05:00",
+    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "description": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+    "dateFetched": "2026-04-29T21:19:10.104603655-04:00"
+  },
+  {
+    "title": "this week in security — march 1 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-03-01T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-march-1-2026-edition/",
+    "description": "U.S. deems Anthropic national security supply chain risk, CISA's acting director replaced, Marquis sues SonicWall over data breach, new Wi-Fi attack, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875154568-04:00"
+  },
+  {
+    "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
+    "author(s)": "Dan Goodin",
+    "date": "2026-02-27T20:26:41-05:00",
+    "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+    "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+    "dateFetched": "2026-04-29T21:19:10.104609355-04:00"
+  },
+  {
+    "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
+    "author(s)": "Dan Goodin",
+    "date": "2026-02-26T10:45:18-05:00",
+    "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+    "description": "That guest network you set up for your neighbors may not be as secure as you think.",
+    "dateFetched": "2026-04-29T21:19:10.104615046-04:00"
   },
   {
     "title": "[tl;dr sec] #317 - 100+ Kernel Bugs in 30 Days, Secret Scanning, Threat Actors Stealing Your PoC",
@@ -741,7 +485,23 @@
     "date": "2026-02-26T15:30:00Z",
     "url": "https://tldrsec.com/p/tldr-sec-317",
     "description": "$600 finds more 0-days in Windows kernel drivers that you can shake a stick at, secret scanners, benchmarks, and improvements, Cline compromised by someone snooping on a researcher's testing",
-    "dateFetched": "2026-04-29T20:38:12.468234461-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151136426-04:00"
+  },
+  {
+    "title": "FBI agents visited my home about an article I wrote, and now I can't go to Mexico",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-02-25T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/fbi-agents-visited-my-home-about-an-article-i-wrote-and-now-i-cannot-go-to-mexico/",
+    "description": "Mexico formally requested the FBI's help in seeking answers about one of my stories. Having federal agents on my doorstep sparked my own years-long effort to pry information out of the FBI to explain why it came to my house to begin with.",
+    "dateFetched": "2026-04-29T21:19:09.877086044-04:00"
+  },
+  {
+    "title": "this week in security — february 22 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-02-22T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-february-22-2026-edition/",
+    "description": "Ivanti cuts cost security, Copilot AI bug summarized confidential emails, ATM jackpotting hacks on the rise, surveillance firms tapping vehicle data, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875163945-04:00"
   },
   {
     "title": "[tl;dr sec] #316 - How Trail of Bits uses Claude Code, GitHub Threat Intel, Open Source AI Pentesting Tools",
@@ -749,7 +509,23 @@
     "date": "2026-02-19T15:30:23.81Z",
     "url": "https://tldrsec.com/p/tldr-sec-316",
     "description": "Extensive guide on being a Claude Code power user, tracking threat actors on GitHub, open source AI-powered pentesting tools",
-    "dateFetched": "2026-04-29T20:38:12.468254227-04:00"
+    "dateFetched": "2026-04-29T21:19:12.15114426-04:00"
+  },
+  {
+    "title": "this week in security — february 15 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-02-15T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-february-15-2026-edition/",
+    "description": "Coupang's breach blamed on management, Trenchant boss stole exploits that could hack 'millions' of computers, Ring and Nest face doorbell surveillance backlash, Windows zero-days, efforts to renew U.S. spy law stall, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875174254-04:00"
+  },
+  {
+    "title": "How tech giants track you across the web, even if you don't use their apps",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-02-14T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/how-tech-giants-track-you-across-the-web-even-if-you-do-not-use-their-apps/",
+    "description": "Ad tech giants use near-invisible \"pixels\" on web pages to track what you do online, even if you don't have an account or use their apps. Thankfully, there is a solution.",
+    "dateFetched": "2026-04-29T21:19:09.877097966-04:00"
   },
   {
     "title": "[tl;dr sec] #315 - Securing OpenClaw, Top 10 Web Hacking Techniques of 2025, Discovering Negative-Days with LLMs",
@@ -757,7 +533,23 @@
     "date": "2026-02-12T15:30:24.026Z",
     "url": "https://tldrsec.com/p/tldr-sec-315",
     "description": "Minimal OpenClaw alternatives, scanning tools, and hardening guidance, PortSwigger's curated top web hacking techniques, open source GitHub Action to flag commits fixing vulnerabilities before they get a CVE",
-    "dateFetched": "2026-04-29T20:38:12.468272972-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151151243-04:00"
+  },
+  {
+    "title": "Apple's Lockdown Mode: Once an 'extreme' security protection, now a necessity for Americans",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-02-10T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/apple-lockdown-mode-once-an-extreme-security-protection-now-a-necessity-for-americans/",
+    "description": "An optional \"extreme\" security feature that Apple has baked-in to modern iPhones, iPads, Macs, and Watches has passed a significant real-world test.",
+    "dateFetched": "2026-04-29T21:19:09.877107112-04:00"
+  },
+  {
+    "title": "this week in security — february 8 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-02-08T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-february-8-2026-edition/",
+    "description": "Moltbook security lapse on launch, China hijacked Notepad++ updates for months, DHS demands tech firms unmask Trump critics, many data breaches, and more.",
+    "dateFetched": "2026-04-29T21:19:09.87518317-04:00"
   },
   {
     "title": "[tl;dr sec] #314 - ClawdBot Security, Security Scorecards, Threat Framework for SDLC Infrastructure",
@@ -765,6 +557,214 @@
     "date": "2026-02-05T15:30:29.702Z",
     "url": "https://tldrsec.com/p/tldr-sec-314",
     "description": "ClawdBot vulns, tools, and Skill scanners; measuring security with scorecards; new open-source framework mapping 70+ attack techniques across the SDLC",
-    "dateFetched": "2026-04-29T20:38:12.468291216-04:00"
+    "dateFetched": "2026-04-29T21:19:12.151159267-04:00"
+  },
+  {
+    "title": "New survey reveals how security researchers and journalists experience legal and criminal threats",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-02-02T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/new-survey-reveals-how-security-researchers-and-journalists-experience-legal-and-criminal-threats/",
+    "description": "Over 100 security researchers and journalists answered our survey and told us how they experienced threats for doing their work. Here are some of the top takeaways.",
+    "dateFetched": "2026-04-29T21:19:09.877116579-04:00"
+  },
+  {
+    "title": "this week in security — february 1 2026 edition",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-02-01T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/this-week-in-security-february-1-2026-edition/",
+    "description": "ShinyHunters' new hacking campaign targets 100 companies, AI app and toy spilled users' data, a pig-butchering scammer blows the whistle, Salt Typhoon hacked U.K. politicians' phones for years, and more.",
+    "dateFetched": "2026-04-29T21:19:09.875192998-04:00"
+  },
+  {
+    "title": "Another huge leak of passwords is the tip of the infostealing iceberg",
+    "author(s)": "Zack Whittaker",
+    "date": "2026-01-26T00:00:00Z",
+    "url": "https://this.weekinsecurity.com/another-huge-leak-of-passwords-is-the-tip-of-the-infostealing-iceberg/",
+    "description": "An unprotected database that spilled 149 million usernames and passwords to the web shines new light on how infostealing malware powers cybercrime.",
+    "dateFetched": "2026-04-29T21:19:09.877125486-04:00"
+  },
+  {
+    "title": "Intent Over Tactics: A CISO's Guide to Protecting Your Crown Jewels",
+    "author(s)": "Caleb Sima",
+    "date": "2025-07-30T05:17:02.689Z",
+    "url": "https://tldrsec.com/p/intent-over-tactics-crown-jewels",
+    "description": "A practical guide to protecting your most critical assets when budget, head-count, and political capital are tight.",
+    "dateFetched": "2026-04-29T21:19:10.735707043-04:00"
+  },
+  {
+    "title": "AppSec as Glue: Building Partnerships to Scale Security",
+    "author(s)": "Ariel Shin, +5",
+    "date": "2025-06-25T14:30:00Z",
+    "url": "https://tldrsec.com/p/bsidessf-2025-appsec-as-glue-building-partnerships",
+    "description": "Answers to additional audience questions from this BSidesSF 2025 panel on scaling security impact by building essential partnerships across teams",
+    "dateFetched": "2026-04-29T21:19:10.735714777-04:00"
+  },
+  {
+    "title": "Security for High Velocity Engineering",
+    "author(s)": "Jason Chan",
+    "date": "2025-05-13T14:30:00Z",
+    "url": "https://tldrsec.com/p/security-for-high-velocity-engineering",
+    "description": "Strategy and Tactics for Protecting and Enabling Modern Software Organizations",
+    "dateFetched": "2026-04-29T21:19:10.735721409-04:00"
+  },
+  {
+    "title": "What sucks in security? Research findings from 50+ security leaders",
+    "author(s)": "Maya Kaczorowski",
+    "date": "2024-12-10T16:00:00Z",
+    "url": "https://tldrsec.com/p/what-sucks-in-security",
+    "description": "A deep dive into what CISOs are actually complaining about",
+    "dateFetched": "2026-04-29T21:19:10.73572696-04:00"
+  },
+  {
+    "title": "Systems Thinking for Cybersecurity Professionals",
+    "author(s)": "Laksh Raghavan",
+    "date": "2024-11-13T15:30:00Z",
+    "url": "https://tldrsec.com/p/systems-thinking-for-cybersecurity-professionals",
+    "description": "Let's hit RESET!",
+    "dateFetched": "2026-04-29T21:19:10.735733461-04:00"
+  },
+  {
+    "title": "TL;DR: Every AI Talk from BSidesLV, Black Hat, and DEF CON 2024",
+    "author(s)": "Clint Gibler",
+    "date": "2024-08-28T14:30:00Z",
+    "url": "https://tldrsec.com/p/tldr-every-ai-talk-bsideslv-blackhat-defcon-2024",
+    "description": "Get up to speed on \u003e60 AI talks in 15 minutes",
+    "dateFetched": "2026-04-29T21:19:10.917971456-04:00"
+  },
+  {
+    "title": "Every AI Talk from DEF CON 2024",
+    "author(s)": "Clint Gibler",
+    "date": "2024-08-28T04:40:31.803Z",
+    "url": "https://tldrsec.com/p/2024-defcon-ai-talks",
+    "description": "A list of all of the talks, abstracts, recordings, slides, papers, and tools for the Main Track and \u003e10 villages",
+    "dateFetched": "2026-04-29T21:19:10.917985772-04:00"
+  },
+  {
+    "title": "Every AI Talk from BSidesLV and BlackHat USA 2024",
+    "author(s)": "Clint Gibler",
+    "date": "2024-08-28T04:34:04.828Z",
+    "url": "https://tldrsec.com/p/2024-bsideslv-blackhat-ai-talks",
+    "description": "A list of all of the talks, abstracts, recordings, slides, papers, and tools from BSidesLV and BlackHat USA",
+    "dateFetched": "2026-04-29T21:19:10.917999247-04:00"
+  },
+  {
+    "title": "Sub-Venture Scale Security Problems",
+    "author(s)": "Rami McCarthy, +1",
+    "date": "2024-06-12T15:51:00Z",
+    "url": "https://tldrsec.com/p/sub-venture-scale-security-problems",
+    "description": "",
+    "dateFetched": "2026-04-29T21:19:10.735739342-04:00"
+  },
+  {
+    "title": "The Race to Make a Business of Secure Defaults",
+    "author(s)": "Rami McCarthy",
+    "date": "2024-06-05T16:04:18.922Z",
+    "url": "https://tldrsec.com/p/business-of-secure-defaults",
+    "description": "",
+    "dateFetched": "2026-04-29T21:19:10.735744632-04:00"
+  },
+  {
+    "title": "Don’t Security Engineer Asymmetric Workloads",
+    "author(s)": "Rami McCarthy",
+    "date": "2024-05-29T16:02:59.153Z",
+    "url": "https://tldrsec.com/p/dont-security-engineer-asymmetry",
+    "description": "",
+    "dateFetched": "2026-04-29T21:19:10.735750533-04:00"
+  },
+  {
+    "title": "Wiring a Winning Security Organization",
+    "author(s)": "Rami McCarthy",
+    "date": "2024-05-15T17:30:00Z",
+    "url": "https://tldrsec.com/p/wiring-a-winning-security-organization",
+    "description": "",
+    "dateFetched": "2026-04-29T21:19:10.735756433-04:00"
+  },
+  {
+    "title": "Security is a Team Sport",
+    "author(s)": "Rami McCarthy",
+    "date": "2024-04-24T15:30:00Z",
+    "url": "https://tldrsec.com/p/security-is-a-team-sport",
+    "description": "A call to action, with practical advice",
+    "dateFetched": "2026-04-29T21:19:10.735761933-04:00"
+  },
+  {
+    "title": "Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!",
+    "author(s)": "Christophe Tafani-Dereeper",
+    "date": "2024-03-22T14:30:00Z",
+    "url": "https://tldrsec.com/p/kubernetes-security-threat-informed-defense",
+    "description": "A threat-informed roadmap for securing Kubernetes clusters",
+    "dateFetched": "2026-04-29T21:19:10.735767403-04:00"
+  },
+  {
+    "title": "Software Supply Chain Vendor Landscape",
+    "author(s)": "Clint Gibler, +1",
+    "date": "2023-10-03T17:14:09.776Z",
+    "url": "https://tldrsec.com/p/software-supply-chain-vendor-landscape",
+    "description": "An analysis of over 20 supply chain security vendors, from securing source code access and CI/CD pipelines to SCA, malicious dependencies, container security, SBOMs, code provenance, and more",
+    "dateFetched": "2026-04-29T21:19:10.918040813-04:00"
+  },
+  {
+    "title": "Cache Me If You Can: Messing with Web Caching",
+    "author(s)": "Clint Gibler",
+    "date": "2023-07-03T22:39:30.68Z",
+    "url": "https://tldrsec.com/p/appsec-cache-me-if-you-can-messing-with-web-caching-ae8c",
+    "description": "In this talk, Louis covers 3 web cache related attacks: cache deception, edge side includes, and cache poisoning.",
+    "dateFetched": "2026-04-29T21:19:10.91805567-04:00"
+  },
+  {
+    "title": "Starting Strength for AppSec: What Mark Rippetoe can Teach You About Building AppSec Muscles",
+    "author(s)": "Clint Gibler",
+    "date": "2023-06-13T18:16:36.05Z",
+    "url": "https://tldrsec.com/p/appsec-starting-strength-for-appsec-what-mark-rippetoe-can-teach-you-about-building-appsec-muscles",
+    "description": "",
+    "dateFetched": "2026-04-29T21:19:10.918075857-04:00"
+  },
+  {
+    "title": "Netflix’s Layered Approach to Reducing Risk of Credential Compromise",
+    "author(s)": "Clint Gibler",
+    "date": "2023-06-13T18:14:09.69Z",
+    "url": "https://tldrsec.com/p/appsec-netflix-s-layered-approach-to-reducing-risk-of-credential-compromise",
+    "description": "",
+    "dateFetched": "2026-04-29T21:19:10.918089612-04:00"
+  },
+  {
+    "title": "Dev Akhawe’s Follow-up on Figma’s Experience Switching to WebAuthN",
+    "author(s)": "Clint Gibler",
+    "date": "2022-02-14T20:00:00Z",
+    "url": "https://tldrsec.com/p/blog-dev-figma-webauthn-followup",
+    "description": "The good, the bad, and the lessons learned.",
+    "dateFetched": "2026-04-29T21:19:10.918102796-04:00"
+  },
+  {
+    "title": "Grow Your Best Employees or Lose Them",
+    "author(s)": "Clint Gibler",
+    "date": "2021-08-31T04:00:00Z",
+    "url": "https://tldrsec.com/p/blog-grow-employees-or-lose-them",
+    "description": "Travis McPeak recommends",
+    "dateFetched": "2026-04-29T21:19:10.918119035-04:00"
+  },
+  {
+    "title": "Travis McPeak: Why Companies don't 'Just Patch'",
+    "author(s)": "Clint Gibler",
+    "date": "2021-08-18T04:00:00Z",
+    "url": "https://tldrsec.com/p/blog-why-companies-dont-patch",
+    "description": "Why patching in the real world is hard, and what to do about it.",
+    "dateFetched": "2026-04-29T21:19:10.918133011-04:00"
+  },
+  {
+    "title": "Riana Pfefferkorn: I Have a Lot to Say About Signal’s Cellebrite Hack",
+    "author(s)": "Clint Gibler",
+    "date": "2021-05-19T04:00:00Z",
+    "url": "https://tldrsec.com/p/blog-riana-signal-cellebrite-hack",
+    "description": "Stanford Internet Observatory Research Scholar [Riana Pfefferkorn](https://twitter.com/Riana_Crypto) shares her thoughts on legal implications of the Cellebrite hack.",
+    "dateFetched": "2026-04-29T21:19:10.918149171-04:00"
+  },
+  {
+    "title": "How Figma Switched Their Okta to Only Allow Phish-proof WebAuthn/FIDO Multi-factor Authentication",
+    "author(s)": "Clint Gibler",
+    "date": "2021-05-06T04:00:00Z",
+    "url": "https://tldrsec.com/p/blog-dev-figma-okta-webauthn-fido-only",
+    "description": "An excellent Twitter thread by Dev Akhawe on the value of making this switch, and challenges and lessons learned along the way.",
+    "dateFetched": "2026-04-29T21:19:10.918207307-04:00"
   }
 ]

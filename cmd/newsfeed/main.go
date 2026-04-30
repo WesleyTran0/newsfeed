@@ -34,7 +34,7 @@ func main() {
 
 	articles := append(news, technologies...)
 	slices.SortFunc(articles, func(a1 models.Article, a2 models.Article) int {
-		return a1.FetchDate.Compare(a2.FetchDate)
+		return a2.PublishedDate.Compare(a1.PublishedDate)
 	})
 	if err := output.WriteJSON(articles, *path); err != nil {
 		log.Fatalf("failed to write output: %v", err)
