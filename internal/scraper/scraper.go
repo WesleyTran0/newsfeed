@@ -97,5 +97,19 @@ func (s *Scraper) ScrapeAll(sources map[string]func(string) []models.Article) []
 	for articles := range results {
 		all = append(all, articles...)
 	}
-	return all
+	return deduplicate(all)
+}
+
+// deduplicate removes all duplicate articles from articles. Duplicates are determined by the same url.
+func deduplicate(articles []models.Article) []models.Article {
+	seen := map[string]bool{}
+	result := []models.Article{}
+
+	for _, a := range articles {
+		if !seen[a.URL] {
+			seen[a.URL] = true
+			result = append(result, a)
+		}
+	}
+	return result
 }
